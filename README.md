@@ -9,7 +9,7 @@ email: ```cyberuser0x33@protonmail.com```
 
 github: ```https://github.com/cyberuser0x33```
 
- ![](https://cyberuser0x33.github.io/fon_2.jpg)
+ ![](https://cyberuser0x33.github.io/fon_2.png)
 
 
 <!---
